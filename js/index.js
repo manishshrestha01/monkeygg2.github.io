@@ -701,10 +701,10 @@ function randomGame() {
 
 const preferencesDefaults = {
     cloak: true,
-    cloakUrl: 'https://classroom.google.com',
+    cloakUrl: 'https://games.shresthamanish.info.np/',
     mask: true,
     maskTitle: 'Home',
-    maskIconUrl: 'https://ssl.gstatic.com/classroom/ic_product_classroom_32.png',
+    maskIconUrl: 'https://raw.githubusercontent.com/manishshrestha01/monkeygg2.github.io/main/imgs/favicon.svg',
     background: true,
 };
 
@@ -727,9 +727,9 @@ backgroundCheckbox.checked = preferences.background;
 
 const presets = {
     classroom: {
-        url: 'https://classroom.google.com/',
+        url: 'https://games.shresthamanish.info.np/',
         title: 'Home',
-        icon: 'https://ssl.gstatic.com/classroom/ic_product_classroom_32.png',
+        icon: 'https://raw.githubusercontent.com/manishshrestha01/monkeygg2.github.io/main/imgs/favicon.svg',
     },
     drive: {
         url: 'https://drive.google.com/',
