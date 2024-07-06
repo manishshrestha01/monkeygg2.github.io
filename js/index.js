@@ -704,7 +704,7 @@ const preferencesDefaults = {
     cloakUrl: 'https://games.shresthamanish.info.np/',
     mask: true,
     maskTitle: 'Games',
-    maskIconUrl: 'https://raw.githubusercontent.com/manishshrestha01/monkeygg2.github.io/main/imgs/favicon.svg',
+    maskIconUrl: 'https://raw.githubusercontent.com/manishshrestha01/monkeygg2.github.io/main/imgs/icon-256-256.png',
     background: true,
 };
 
@@ -729,7 +729,7 @@ const presets = {
     classroom: {
         url: 'https://games.shresthamanish.info.np/',
         title: 'Games',
-        icon: 'https://raw.githubusercontent.com/manishshrestha01/monkeygg2.github.io/main/imgs/favicon.svg',
+        icon: 'https://raw.githubusercontent.com/manishshrestha01/monkeygg2.github.io/main/imgs/icon-256-256.png',
     },
     drive: {
         url: 'https://drive.google.com/',
