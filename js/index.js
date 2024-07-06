@@ -728,7 +728,7 @@ backgroundCheckbox.checked = preferences.background;
 const presets = {
     classroom: {
         url: 'https://games.shresthamanish.info.np/',
-        title: 'Home',
+        title: 'Games',
         icon: 'https://raw.githubusercontent.com/manishshrestha01/monkeygg2.github.io/main/imgs/favicon.svg',
     },
     drive: {
