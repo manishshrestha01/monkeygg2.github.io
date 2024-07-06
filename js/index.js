@@ -703,7 +703,7 @@ const preferencesDefaults = {
     cloak: true,
     cloakUrl: 'https://games.shresthamanish.info.np/',
     mask: true,
-    maskTitle: 'Home',
+    maskTitle: 'Games',
     maskIconUrl: 'https://raw.githubusercontent.com/manishshrestha01/monkeygg2.github.io/main/imgs/favicon.svg',
     background: true,
 };
